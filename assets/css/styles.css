@@ -1,0 +1,44 @@
+#row1 {
+  text-align:center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center;
+}
+
+.img-fluid.float-left {
+  border-bottom-left-radius:20px;
+  border-bottom-right-radius:20px;
+  border-top-right-radius:20px;
+  border-top-left-radius:20px;
+}
+
+#links {
+  text-align:center;
+  border-bottom:2px solid white;
+}
+
+.progress {
+  margin-left:25px;
+  margin-right:25px;
+}
+
+.col-md-4 {
+  text-align:center;
+}
+
+.navbar-brand {
+  background-color:rgb(217,0,34);
+  color:black;
+  border-bottom-left-radius:20px;
+  border-bottom-right-radius:20px;
+  border-top-right-radius:20px;
+}
+
+.jumbotron {
+  border-radius:50px;
+}
+
+.col.d-flex.flex-column {
+  text-align:center;
+}
+
